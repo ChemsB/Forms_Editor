@@ -1,0 +1,16 @@
+C:\Users\Alumne\Desktop\ControlCalculator\bin\Debug\ControlCalculator.dll
+C:\Users\Alumne\Desktop\ControlCalculator\bin\Debug\ControlCalculator.pdb
+C:\Users\Alumne\Desktop\ControlCalculator\obj\Debug\ControlCalculator.csprojAssemblyReference.cache
+C:\Users\Alumne\Desktop\ControlCalculator\obj\Debug\ControlCalculator.UserControl1.resources
+C:\Users\Alumne\Desktop\ControlCalculator\obj\Debug\ControlCalculator.csproj.GenerateResource.cache
+C:\Users\Alumne\Desktop\ControlCalculator\obj\Debug\ControlCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Alumne\Desktop\ControlCalculator\obj\Debug\ControlCalculator.dll
+C:\Users\Alumne\Desktop\ControlCalculator\obj\Debug\ControlCalculator.pdb
+G:\Chems\Proven2020\Interficies\pt2b_ChemsBezetout+calculadora\pt2b_ChemsBezetout\ControlCalculator\bin\Debug\ControlCalculator.dll
+G:\Chems\Proven2020\Interficies\pt2b_ChemsBezetout+calculadora\pt2b_ChemsBezetout\ControlCalculator\bin\Debug\ControlCalculator.pdb
+G:\Chems\Proven2020\Interficies\pt2b_ChemsBezetout+calculadora\pt2b_ChemsBezetout\ControlCalculator\obj\Debug\ControlCalculator.csprojAssemblyReference.cache
+G:\Chems\Proven2020\Interficies\pt2b_ChemsBezetout+calculadora\pt2b_ChemsBezetout\ControlCalculator\obj\Debug\ControlCalculator.UserControl1.resources
+G:\Chems\Proven2020\Interficies\pt2b_ChemsBezetout+calculadora\pt2b_ChemsBezetout\ControlCalculator\obj\Debug\ControlCalculator.csproj.GenerateResource.cache
+G:\Chems\Proven2020\Interficies\pt2b_ChemsBezetout+calculadora\pt2b_ChemsBezetout\ControlCalculator\obj\Debug\ControlCalculator.csproj.CoreCompileInputs.cache
+G:\Chems\Proven2020\Interficies\pt2b_ChemsBezetout+calculadora\pt2b_ChemsBezetout\ControlCalculator\obj\Debug\ControlCalculator.dll
+G:\Chems\Proven2020\Interficies\pt2b_ChemsBezetout+calculadora\pt2b_ChemsBezetout\ControlCalculator\obj\Debug\ControlCalculator.pdb

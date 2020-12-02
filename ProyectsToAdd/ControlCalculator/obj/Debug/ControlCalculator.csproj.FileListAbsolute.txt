@@ -1,0 +1,8 @@
+C:\Users\Alumne\Desktop\ControlCalculator\bin\Debug\ControlCalculator.dll
+C:\Users\Alumne\Desktop\ControlCalculator\bin\Debug\ControlCalculator.pdb
+C:\Users\Alumne\Desktop\ControlCalculator\obj\Debug\ControlCalculator.csprojAssemblyReference.cache
+C:\Users\Alumne\Desktop\ControlCalculator\obj\Debug\ControlCalculator.UserControl1.resources
+C:\Users\Alumne\Desktop\ControlCalculator\obj\Debug\ControlCalculator.csproj.GenerateResource.cache
+C:\Users\Alumne\Desktop\ControlCalculator\obj\Debug\ControlCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Alumne\Desktop\ControlCalculator\obj\Debug\ControlCalculator.dll
+C:\Users\Alumne\Desktop\ControlCalculator\obj\Debug\ControlCalculator.pdb
